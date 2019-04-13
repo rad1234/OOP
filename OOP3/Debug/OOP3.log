@@ -1,0 +1,3 @@
+﻿  Repo.c
+c:\users\rares2\source\repos\oop3\oop3\repo.c(10): warning C4101: 'bots': unreferenced local variable
+  OOP3.vcxproj -> C:\Users\Rares2\source\repos\OOP3\Debug\OOP3.exe
